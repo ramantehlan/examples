@@ -1,6 +1,4 @@
-# nteract example notebooks
-
-> This is forked from nteract web!
+# nteract example notebooks | test
 
 **Go ahead and give these notebooks a try!**
 
